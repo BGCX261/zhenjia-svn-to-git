@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache>
+
+	<defaultCache maxElementsInMemory="10000" eternal="true"
+		timeToIdleSeconds="120" timeToLiveSeconds="120" overflowToDisk="true" />
+
+	<cache name="DEFAULT_CACHE" maxElementsInMemory="10000"
+		eternal="true" timeToIdleSeconds="500" timeToLiveSeconds="500"
+		overflowToDisk="true" />
+
+	<cache name="questionCache"  maxElementsInMemory="10000"
+		eternal="true" timeToIdleSeconds="500" timeToLiveSeconds="500"
+		overflowToDisk="true" />
+		
+	<cache name="userCache"  maxElementsInMemory="10000"
+		eternal="true" timeToIdleSeconds="500" timeToLiveSeconds="500"
+		overflowToDisk="true" />
+		
+	<cache name="topicCache"  maxElementsInMemory="10000"
+		eternal="true" timeToIdleSeconds="500" timeToLiveSeconds="500"
+		overflowToDisk="true" />
+
+
+
+</ehcache>

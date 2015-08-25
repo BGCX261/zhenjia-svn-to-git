@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+	<bean id="placeholderConfig"
+		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="location">
+			<value>classpath:init.properties</value>
+		</property>
+	</bean>
+
+	<bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
+		<property name="protocol" value="smtp" />
+		<property name="host">
+			<value>${mail.smtp.host}</value>
+		</property>
+		<property name="port">
+			<value>${mail.smtp.port}</value>
+		</property>
+		<property name="username">
+			<value>${mail.adminUserName}</value>
+		</property>
+		<property name="password">
+			<value>${mail.adminPassword}</value>
+		</property>
+		<property name="defaultEncoding">
+			<value>${mail.encoding}</value>
+		</property>
+		<property name="javaMailProperties">
+			<props>
+				<prop key="mail.smtp.auth">true</prop>
+			</props>
+		</property>
+	</bean>
+
+	<bean id="mailReceiver" class="com.evan.zj.service.IMAPMailReceiver">
+		<constructor-arg index="0">
+			<value>imap</value>
+		</constructor-arg>
+		<constructor-arg index="1">
+			<value>${mail.imap.host}</value>
+		</constructor-arg>
+		<constructor-arg index="2">
+			<value>${mail.imap.port}</value>
+		</constructor-arg>
+		<constructor-arg index="3">
+			<value>${mail.adminUserName}</value>
+		</constructor-arg>
+		<constructor-arg index="4">
+			<value>${mail.adminPassword}</value>
+		</constructor-arg>
+	</bean>
+
+	<bean id="registerMessage" class="org.springframework.mail.SimpleMailMessage">
+		<property name="from">
+			<value>${mail.adminUserName}</value>
+		</property>
+		<property name="subject">
+			<value>${mail.confirmMailSubject}</value>
+		</property>
+		<property name="text">
+			<value>${mail.confirmMailContent}</value>
+		</property>
+	</bean>
+
+	<bean id="mailService" class="com.evan.zj.service.MailService">
+		<property name="mailSender">
+			<ref local="mailSender" />
+		</property>
+		<property name="mailReceiver">
+			<ref local="mailReceiver"/>
+		</property>
+		<property name="registerMessage">
+			<ref local="registerMessage" />
+		</property>
+		<property name="defaultFrom">
+			<value>${mail.adminUserName}</value>
+		</property>
+		<property name="taskExecutor">
+			<ref local="taskExecutor" />
+		</property>
+	</bean>
+
+	<bean id="taskExecutor"
+		class="org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor">
+		<property name="corePoolSize" value="5" />
+		<property name="maxPoolSize" value="30" />
+	</bean>
+</beans>

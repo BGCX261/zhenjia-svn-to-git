@@ -1,0 +1,828 @@
+<%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
+
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta http-equiv="imagetoolbar" content="no"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><link href="Resources/axurerppage.css" type="text/css" rel="stylesheet">
+
+<SCRIPT src="css/axurerp_beforepagescript.js"></SCRIPT></HEAD><BODY>
+
+<DIV id=ou0 style="position:absolute; left:710px; top:233px; width:9px; height:35px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:-3px; top:-3px; width:17px; height:43px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u0.png',sizingMethod='scale');
+
+"><img style="width:17px; height:43px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u0.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u0container style="position:absolute; left:710px; top:233px; width:9px; height:35px;; overflow:visible;">
+
+
+
+<DIV id=u1 style="position:absolute; left:2px; top:9px; width:4px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u1_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u0 src="Resources/transparent.gif" style="position:absolute; left:710px; top:233px; width:8px; height:34px"   >
+
+
+
+<DIV id=ou2 style="position:absolute; left:718px; top:233px; width:153px; height:35px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:-3px; top:-3px; width:161px; height:43px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u2.png',sizingMethod='scale');
+
+"><img style="width:161px; height:43px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u2.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u2container style="position:absolute; left:718px; top:233px; width:153px; height:35px;; overflow:visible;">
+
+
+
+<DIV id=u3 style="position:absolute; left:2px; top:9px; width:148px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u3_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u2 src="Resources/transparent.gif" style="position:absolute; left:718px; top:233px; width:152px; height:34px"   >
+
+
+
+<DIV id=ou4 style="position:absolute; left:0px; top:10px; width:1071px; height:141px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:-3px; top:-3px; width:1079px; height:149px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u4.png',sizingMethod='scale');
+
+"><img style="width:1079px; height:149px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u4.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u4container style="position:absolute; left:0px; top:10px; width:1071px; height:141px;; overflow:visible;">
+
+
+
+<DIV id=u5 style="position:absolute; left:2px; top:62px; width:1066px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u5_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u4 src="Resources/transparent.gif" style="position:absolute; left:0px; top:10px; width:1070px; height:140px"   >
+
+
+
+<INPUT id=u6  type=submit value="是真是假" style="position:absolute; left:370px; top:110px; width:116px; height:30px; ; ; text-align: center ; font-family:'Arial'; font-size: 13px; color:#000000; font-style:normal; font-weight:normal; text-decoration:none" >
+
+
+
+<INPUT id=u7  type=submit value="我要提问" style="position:absolute; left:497px; top:110px; width:113px; height:30px; ; ; text-align: center ; font-family:'Arial'; font-size: 13px; color:#000000; font-style:normal; font-weight:normal; text-decoration:none" >
+
+
+
+<DIV id=u8 style="position:absolute; left:40px; top:170px; width:150px; height:20px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u8_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:16px;">碘盐可以放辐射吗？</span></DIV></DIV>
+
+<DIV id=u9 style="position:absolute; left:45px; top:266px; width:288px; height:51px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u9_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#6B6B6B; font-size:13px;">八戒：支持真的,说不可能不可能不可能不可能不可能不可能不可能不可能。。。</span></DIV></DIV>
+
+<DIV id=ou10 style="position:absolute; left:79px; top:210px; width:257px; height:13px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:-3px; top:-3px; width:265px; height:21px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u10.png',sizingMethod='scale');
+
+"><img style="width:265px; height:21px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u10.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u10container style="position:absolute; left:79px; top:210px; width:257px; height:13px;; overflow:visible;">
+
+
+
+<DIV id=u11 style="position:absolute; left:2px; top:-2px; width:252px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u11_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u10 src="Resources/transparent.gif" style="position:absolute; left:79px; top:210px; width:256px; height:12px"   >
+
+
+
+<DIV id=ou12 style="position:absolute; left:337px; top:210px; width:109px; height:13px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:-3px; top:-3px; width:117px; height:21px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u12.png',sizingMethod='scale');
+
+"><img style="width:117px; height:21px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u12.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u12container style="position:absolute; left:337px; top:210px; width:109px; height:13px;; overflow:visible;">
+
+
+
+<DIV id=u13 style="position:absolute; left:2px; top:-2px; width:104px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u13_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u12 src="Resources/transparent.gif" style="position:absolute; left:337px; top:210px; width:108px; height:12px"   >
+
+
+
+<DIV id=u14 style="position:absolute; left:400px; top:263px; width:100px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u14_rtf><span style=" font-family:'Arial'; color:#6B6B6B; font-size:13px;">5</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#6B6B6B; font-size:13px;">月20日 17:20</span></DIV></DIV>
+
+<DIV id=u15 style="position:absolute; left:80px; top:233px; width:70px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u15_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">真的(9302)</span></DIV></DIV>
+
+<DIV id=u16 style="position:absolute; left:380px; top:230px; width:70px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u16_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">假的(302)</span></DIV></DIV>
+
+<INPUT id=u17  type=text value="是真是假,搜一把。。。" style="position:absolute; left:40px; top:110px; width:320px; height:30px; ; ; text-align: left ; font-family:'Arial'; font-size: 13px; color:#868686; font-style:normal; font-weight:normal; text-decoration:none"   >
+
+
+
+<DIV id=u18 style="position:absolute; left:39px; top:31px; width:240px; height:35px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u18_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#FFFFFF; font-size:27px;">是真是假&nbsp; &nbsp; &nbsp; &nbsp; </span></DIV></DIV>
+
+<DIV id=ou19 style="position:absolute; left:157px; top:31px; width:42px; height:36px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:-3px; top:-3px; width:50px; height:44px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u19.png',sizingMethod='scale');
+
+"><img style="width:50px; height:44px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u19.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u19container style="position:absolute; left:157px; top:31px; width:42px; height:36px;; overflow:visible;">
+
+
+
+<DIV id=u20 style="position:absolute; left:2px; top:-1px; width:37px; height:37px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u20_rtf><div style="text-align:center"><span style=" font-family:'??'; color:#FFFFFF; font-size:32px;"><b>?</b></span></div></DIV></DIV>
+
+</DIV>
+
+<IMG id=u19 src="Resources/transparent.gif" style="position:absolute; left:157px; top:31px; width:41px; height:35px"   >
+
+
+
+<DIV id=u21 style="position:absolute; left:209px; top:35px; width:240px; height:27px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u21_rtf><span style=" font-family:'Arial'; color:#FFFFFF; font-size:21px;">zhenJia.so</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#FFFFFF; font-size:21px;">&nbsp; &nbsp; &nbsp;&nbsp; </span></DIV></DIV>
+
+<DIV id=ou22 style="position:absolute; left:42px; top:206px; width:24px; height:20px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:0px; top:0px; width:23px; height:19px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u22.png',sizingMethod='scale');
+
+"><img style="width:23px; height:19px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u22.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u22container style="position:absolute; left:42px; top:206px; width:24px; height:20px;; overflow:visible;">
+
+
+
+<DIV id=u23 style="position:absolute; left:2px; top:2px; width:19px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u23_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u22 src="Resources/transparent.gif" style="position:absolute; left:42px; top:206px; width:23px; height:19px"   >
+
+
+
+<DIV id=ou24 style="position:absolute; left:455px; top:204px; width:24px; height:20px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:0px; top:0px; width:23px; height:19px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u22.png',sizingMethod='scale');
+
+"><img style="width:23px; height:19px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u22.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u24container style="position:absolute; left:455px; top:204px; width:24px; height:20px;; overflow:visible;">
+
+
+
+<DIV id=u25 style="position:absolute; left:2px; top:2px; width:19px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u25_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u24 src="Resources/transparent.gif" style="position:absolute; left:455px; top:204px; width:23px; height:19px"   >
+
+
+
+<span style="position:absolute; left:42px; top:308px; width:523px; height:5px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u26.png',sizingMethod='scale');
+
+"><img style="width:523px; height:5px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u26.png" border="0" alt=""></span>
+
+
+
+<IMG id=u26 src="Resources/transparent.gif" style="position:absolute; left:42px; top:307.5px; width:520px; height:2px">
+
+
+
+<DIV id=u27 style="position:absolute; left:40px; top:333px; width:150px; height:20px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u27_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:16px;">碘盐可以放辐射吗？</span></DIV></DIV>
+
+<DIV id=u28 style="position:absolute; left:45px; top:429px; width:288px; height:51px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u28_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#6B6B6B; font-size:13px;">八戒：支持真的,说不可能不可能不可能不可能不可能不可能不可能不可能。。。</span></DIV></DIV>
+
+<DIV id=ou29 style="position:absolute; left:79px; top:373px; width:257px; height:13px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:-3px; top:-3px; width:265px; height:21px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u10.png',sizingMethod='scale');
+
+"><img style="width:265px; height:21px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u10.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u29container style="position:absolute; left:79px; top:373px; width:257px; height:13px;; overflow:visible;">
+
+
+
+<DIV id=u30 style="position:absolute; left:2px; top:-2px; width:252px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u30_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u29 src="Resources/transparent.gif" style="position:absolute; left:79px; top:373px; width:256px; height:12px"   >
+
+
+
+<DIV id=ou31 style="position:absolute; left:337px; top:373px; width:109px; height:13px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:-3px; top:-3px; width:117px; height:21px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u12.png',sizingMethod='scale');
+
+"><img style="width:117px; height:21px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u12.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u31container style="position:absolute; left:337px; top:373px; width:109px; height:13px;; overflow:visible;">
+
+
+
+<DIV id=u32 style="position:absolute; left:2px; top:-2px; width:104px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u32_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u31 src="Resources/transparent.gif" style="position:absolute; left:337px; top:373px; width:108px; height:12px"   >
+
+
+
+<DIV id=u33 style="position:absolute; left:400px; top:426px; width:100px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u33_rtf><span style=" font-family:'Arial'; color:#6B6B6B; font-size:13px;">5</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#6B6B6B; font-size:13px;">月20日 17:20</span></DIV></DIV>
+
+<DIV id=u34 style="position:absolute; left:80px; top:396px; width:70px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u34_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">真的(9302)</span></DIV></DIV>
+
+<DIV id=u35 style="position:absolute; left:380px; top:393px; width:70px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u35_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">假的(302)</span></DIV></DIV>
+
+<DIV id=ou36 style="position:absolute; left:42px; top:369px; width:24px; height:20px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:0px; top:0px; width:23px; height:19px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u22.png',sizingMethod='scale');
+
+"><img style="width:23px; height:19px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u22.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u36container style="position:absolute; left:42px; top:369px; width:24px; height:20px;; overflow:visible;">
+
+
+
+<DIV id=u37 style="position:absolute; left:2px; top:2px; width:19px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u37_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u36 src="Resources/transparent.gif" style="position:absolute; left:42px; top:369px; width:23px; height:19px"   >
+
+
+
+<DIV id=ou38 style="position:absolute; left:455px; top:367px; width:24px; height:20px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:0px; top:0px; width:23px; height:19px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u22.png',sizingMethod='scale');
+
+"><img style="width:23px; height:19px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u22.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u38container style="position:absolute; left:455px; top:367px; width:24px; height:20px;; overflow:visible;">
+
+
+
+<DIV id=u39 style="position:absolute; left:2px; top:2px; width:19px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u39_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u38 src="Resources/transparent.gif" style="position:absolute; left:455px; top:367px; width:23px; height:19px"   >
+
+
+
+<span style="position:absolute; left:42px; top:471px; width:523px; height:5px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u40.png',sizingMethod='scale');
+
+"><img style="width:523px; height:5px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u40.png" border="0" alt=""></span>
+
+
+
+<IMG id=u40 src="Resources/transparent.gif" style="position:absolute; left:42px; top:470.5px; width:520px; height:2px">
+
+
+
+<DIV id=u41 style="position:absolute; left:40px; top:490px; width:150px; height:20px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u41_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:16px;">碘盐可以放辐射吗？</span></DIV></DIV>
+
+<DIV id=u42 style="position:absolute; left:45px; top:586px; width:288px; height:51px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u42_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#6B6B6B; font-size:13px;">八戒：支持真的,说不可能不可能不可能不可能不可能不可能不可能不可能。。。</span></DIV></DIV>
+
+<DIV id=ou43 style="position:absolute; left:79px; top:530px; width:257px; height:13px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:-3px; top:-3px; width:265px; height:21px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u10.png',sizingMethod='scale');
+
+"><img style="width:265px; height:21px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u10.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u43container style="position:absolute; left:79px; top:530px; width:257px; height:13px;; overflow:visible;">
+
+
+
+<DIV id=u44 style="position:absolute; left:2px; top:-2px; width:252px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u44_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u43 src="Resources/transparent.gif" style="position:absolute; left:79px; top:530px; width:256px; height:12px"   >
+
+
+
+<DIV id=ou45 style="position:absolute; left:337px; top:530px; width:109px; height:13px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:-3px; top:-3px; width:117px; height:21px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u12.png',sizingMethod='scale');
+
+"><img style="width:117px; height:21px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u12.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u45container style="position:absolute; left:337px; top:530px; width:109px; height:13px;; overflow:visible;">
+
+
+
+<DIV id=u46 style="position:absolute; left:2px; top:-2px; width:104px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u46_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u45 src="Resources/transparent.gif" style="position:absolute; left:337px; top:530px; width:108px; height:12px"   >
+
+
+
+<DIV id=u47 style="position:absolute; left:400px; top:583px; width:100px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u47_rtf><span style=" font-family:'Arial'; color:#6B6B6B; font-size:13px;">5</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#6B6B6B; font-size:13px;">月20日 17:20</span></DIV></DIV>
+
+<DIV id=u48 style="position:absolute; left:80px; top:553px; width:70px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u48_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">真的(9302)</span></DIV></DIV>
+
+<DIV id=u49 style="position:absolute; left:380px; top:550px; width:70px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u49_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">假的(302)</span></DIV></DIV>
+
+<DIV id=ou50 style="position:absolute; left:42px; top:526px; width:24px; height:20px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:0px; top:0px; width:23px; height:19px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u22.png',sizingMethod='scale');
+
+"><img style="width:23px; height:19px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u22.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u50container style="position:absolute; left:42px; top:526px; width:24px; height:20px;; overflow:visible;">
+
+
+
+<DIV id=u51 style="position:absolute; left:2px; top:2px; width:19px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u51_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u50 src="Resources/transparent.gif" style="position:absolute; left:42px; top:526px; width:23px; height:19px"   >
+
+
+
+<DIV id=ou52 style="position:absolute; left:455px; top:524px; width:24px; height:20px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:0px; top:0px; width:23px; height:19px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u22.png',sizingMethod='scale');
+
+"><img style="width:23px; height:19px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u22.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u52container style="position:absolute; left:455px; top:524px; width:24px; height:20px;; overflow:visible;">
+
+
+
+<DIV id=u53 style="position:absolute; left:2px; top:2px; width:19px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u53_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u52 src="Resources/transparent.gif" style="position:absolute; left:455px; top:524px; width:23px; height:19px"   >
+
+
+
+<span style="position:absolute; left:42px; top:628px; width:523px; height:5px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u54.png',sizingMethod='scale');
+
+"><img style="width:523px; height:5px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u54.png" border="0" alt=""></span>
+
+
+
+<IMG id=u54 src="Resources/transparent.gif" style="position:absolute; left:42px; top:627.5px; width:520px; height:2px">
+
+
+
+<DIV id=u55 style="position:absolute; left:40px; top:653px; width:150px; height:20px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u55_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:16px;">碘盐可以放辐射吗？</span></DIV></DIV>
+
+<DIV id=u56 style="position:absolute; left:45px; top:749px; width:288px; height:51px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u56_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#6B6B6B; font-size:13px;">八戒：支持真的,说不可能不可能不可能不可能不可能不可能不可能不可能。。。</span></DIV></DIV>
+
+<DIV id=ou57 style="position:absolute; left:79px; top:693px; width:257px; height:13px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:-3px; top:-3px; width:265px; height:21px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u10.png',sizingMethod='scale');
+
+"><img style="width:265px; height:21px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u10.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u57container style="position:absolute; left:79px; top:693px; width:257px; height:13px;; overflow:visible;">
+
+
+
+<DIV id=u58 style="position:absolute; left:2px; top:-2px; width:252px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u58_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u57 src="Resources/transparent.gif" style="position:absolute; left:79px; top:693px; width:256px; height:12px"   >
+
+
+
+<DIV id=ou59 style="position:absolute; left:337px; top:693px; width:109px; height:13px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:-3px; top:-3px; width:117px; height:21px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u12.png',sizingMethod='scale');
+
+"><img style="width:117px; height:21px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u12.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u59container style="position:absolute; left:337px; top:693px; width:109px; height:13px;; overflow:visible;">
+
+
+
+<DIV id=u60 style="position:absolute; left:2px; top:-2px; width:104px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u60_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u59 src="Resources/transparent.gif" style="position:absolute; left:337px; top:693px; width:108px; height:12px"   >
+
+
+
+<DIV id=u61 style="position:absolute; left:400px; top:746px; width:100px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u61_rtf><span style=" font-family:'Arial'; color:#6B6B6B; font-size:13px;">5</span><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#6B6B6B; font-size:13px;">月20日 17:20</span></DIV></DIV>
+
+<DIV id=u62 style="position:absolute; left:80px; top:716px; width:70px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u62_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">真的(9302)</span></DIV></DIV>
+
+<DIV id=u63 style="position:absolute; left:380px; top:713px; width:70px; height:17px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u63_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:13px;">假的(302)</span></DIV></DIV>
+
+<DIV id=ou64 style="position:absolute; left:42px; top:689px; width:24px; height:20px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:0px; top:0px; width:23px; height:19px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u22.png',sizingMethod='scale');
+
+"><img style="width:23px; height:19px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u22.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u64container style="position:absolute; left:42px; top:689px; width:24px; height:20px;; overflow:visible;">
+
+
+
+<DIV id=u65 style="position:absolute; left:2px; top:2px; width:19px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u65_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u64 src="Resources/transparent.gif" style="position:absolute; left:42px; top:689px; width:23px; height:19px"   >
+
+
+
+<DIV id=ou66 style="position:absolute; left:455px; top:687px; width:24px; height:20px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:0px; top:0px; width:23px; height:19px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u22.png',sizingMethod='scale');
+
+"><img style="width:23px; height:19px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u22.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u66container style="position:absolute; left:455px; top:687px; width:24px; height:20px;; overflow:visible;">
+
+
+
+<DIV id=u67 style="position:absolute; left:2px; top:2px; width:19px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u67_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u66 src="Resources/transparent.gif" style="position:absolute; left:455px; top:687px; width:23px; height:19px"   >
+
+
+
+<span style="position:absolute; left:42px; top:791px; width:523px; height:5px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u68.png',sizingMethod='scale');
+
+"><img style="width:523px; height:5px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u68.png" border="0" alt=""></span>
+
+
+
+<IMG id=u68 src="Resources/transparent.gif" style="position:absolute; left:42px; top:790.5px; width:520px; height:2px">
+
+
+
+<DIV id=u69 style="position:absolute; left:720px; top:164px; width:70px; height:25px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u69_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:19px;"><u>登录</u></span></DIV></DIV>
+
+<DIV id=u70 style="position:absolute; left:812px; top:165px; width:70px; height:25px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u70_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:19px;"><u>注册</u></span></DIV></DIV>
+
+<span style="position:absolute; left:703px; top:200px; width:173px; height:5px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u71.png',sizingMethod='scale');
+
+"><img style="width:173px; height:5px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u71.png" border="0" alt=""></span>
+
+
+
+<IMG id=u71 src="Resources/transparent.gif" style="position:absolute; left:703px; top:199.5px; width:170px; height:2px">
+
+
+
+<DIV id=ou72 style="position:absolute; left:900px; top:160px; width:75px; height:61px;; overflow:visible; ">
+
+
+
+<span style="position:absolute; left:0px; top:0px; width:74px; height:60px; ;
+
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Home_files/u72.png',sizingMethod='scale');
+
+"><img style="width:74px; height:60px; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" 
+
+src="Home_files/u72.png" border="0" alt=""></span>
+
+
+
+</DIV>
+
+<DIV id=u72container style="position:absolute; left:900px; top:160px; width:75px; height:61px;; overflow:visible;">
+
+
+
+<DIV id=u73 style="position:absolute; left:2px; top:22px; width:70px; height:16px; ; ; text-align: center ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u73_rtf>&nbsp;</DIV></DIV>
+
+</DIV>
+
+<IMG id=u72 src="Resources/transparent.gif" style="position:absolute; left:900px; top:160px; width:74px; height:60px"   >
+
+
+
+<DIV id=u74 style="position:absolute; left:730px; top:240px; width:80px; height:20px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u74_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:16px;">主页问题</span></DIV></DIV>
+
+<DIV id=u75 style="position:absolute; left:730px; top:280px; width:80px; height:20px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u75_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:16px;">发现问题</span></DIV></DIV>
+
+<DIV id=u76 style="position:absolute; left:730px; top:310px; width:130px; height:20px; ; ; text-align: left ; font-family:Arial; text-align:left; word-wrap:break-word;" >
+
+<DIV id=u76_rtf><span style=" font-family:'\'cb\'ce\'cc\'e5'; color:#000000; font-size:16px;">我关注的问题</span></DIV></DIV><SCRIPT src="Resources/axurerp_pagescript.js"></SCRIPT>
+
+<SCRIPT src="Home_files/axurerp_pagespecificscript.js"></SCRIPT></BODY></HTML>
